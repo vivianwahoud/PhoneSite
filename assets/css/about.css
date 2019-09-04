@@ -1,0 +1,140 @@
+
+.firstPart h2{
+color: #3a8bcd;
+	direction: rtl;
+	padding-bottom:20px;
+	
+	
+}
+.aboutcards {
+	
+line-height: 2;
+	
+padding:20px;
+	
+width: auto;
+	
+height:350px;
+	
+border:1px solid #f6efef;
+}
+.aboutcards h3 ,p {
+	direction: rtl;
+
+}
+.aboutul{
+		direction: rtl;
+}
+.owl-carousel .owl-wrapper-outer {
+
+margin-left:0%;
+
+}
+
+@media (max-width:767px){
+.aboutcards  h3{
+	font-size:20px
+}	
+.aboutcards p ,li {
+
+	font-size:14px;}
+	.aboutcards {
+	
+line-height: 2;
+	
+padding:20px;
+	
+width: auto;
+	
+height:550px;
+	
+border:1px solid #3a8bcd;
+}
+.firstPart h2{
+text-align:center;
+	
+	
+}
+}	
+.firstPart{
+	direction: rtl;
+}
+
+.aboutcard2{
+border:1px solid #3a8bcd;
+	
+	padding-right:50px;
+}
+
+
+
+/*Start informationAbout*/
+.informationAbout {
+	
+	padding: 30px 0
+}
+.informationAbout .h1{
+	font-size: 50px;
+	color: #555;
+}
+
+.informationAbout .PaAbout {
+
+color: #555;
+
+padding:0;
+ 
+
+
+}
+
+.informationAbout .PaAbout p{
+line-height: 1.6
+}
+.informationAbout .PaAbout h3{
+margin-right: 0px;
+}
+.informationAbout  ul{
+margin-left:100px;
+}
+
+
+
+/*End informationAbout*/
+
+
+/* start Management Members-*/
+.Management{
+	  padding: 50px 0;
+	    background-color: #fff;
+}
+
+.Management h2{
+    margin-bottom: 50px;
+    font-weight: bold;
+    color: #555555;
+}
+.cards {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    height:360px
+   
+}
+.cards i {
+	
+	/* margin-left: 20px; */
+	/* margin-bottom: 55px; */
+	width: 30px;
+	height: 30px;
+	color:#fff ;
+	background-color: #3b5998;
+	line-height: 33px;
+	
+	font-size: 13px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+
+}
+/* End Management Members-*/

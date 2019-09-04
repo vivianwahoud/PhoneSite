@@ -1,0 +1,42 @@
+.blockSide{
+	background-color: red;
+	border: 1px solid black;
+	
+	height: 120px;
+	
+	
+}
+.textSide{
+	
+	direction: rtl;
+}
+.coursesPage{
+	
+	background-color: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	width: auto;
+	height: auto;
+	
+	
+}
+h2{
+	margin-bottom: 50px;
+    font-weight: bold;
+    color: #555555;
+}
+p{
+	font-size: 22px;
+}
+.imgSide{
+	
+	margin-top: 45px;
+	margin-left:15%;
+	
+}
+h3{
+	margin-top: 70px;
+	margin-bottom: 5px;
+    font-weight: bold;
+    color: #555555;
+    margin-right:20px;
+}
